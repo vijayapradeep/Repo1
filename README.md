@@ -6,3 +6,4 @@ This is another implementation of MyBatis sample application (https://github.com
 
 Original application is available for downloading in the downloads section of MyBatis project site. 
 In this section we will walk through this sample to understand how is it built and learn how to run it.
+"#Jpet Repo" 
