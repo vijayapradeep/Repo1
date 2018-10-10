@@ -17,11 +17,6 @@
                         <include>**/*Test.java</include>
                     </includes>
                 </configuration>
-                <configuration>
-                 <suiteXmlFiles>
-            <suiteXmlFile>testng.xml</suiteXmlFile>
-          </suiteXmlFiles>
-        </configuration>
             </plugin>
 
             <plugin>
